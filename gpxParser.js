@@ -4,7 +4,7 @@
  * @version 1.0.0
  * @fileoverview Archivo unico del módulo.
  *
- * @author José Luis Zúñiga Valencia
+ * @author JL ZV
  * @license MIT
  * @date 2024-12-11
  *
