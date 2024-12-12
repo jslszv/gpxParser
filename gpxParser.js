@@ -92,13 +92,7 @@ function getTrackPointsData(path) {
     });
   });
 }
-function showProps(obj, objName) {
-  let result = "";
-  Object.keys(obj).forEach((i) => {
-    result += `${objName}.${i} = ${obj[i]}\n`;
-  });
-  return result;
-}
+
 /**
  * Función que parsea un archivo GPX y devuelve la información contenida en 'metadata', específicamente los campos 'name', 'desc' y 'author'.
  * @param {string} path Ruta al archivo GPX.
